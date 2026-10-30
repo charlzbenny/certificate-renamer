@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test cache
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Backup folder
+backup_original/
+
+# OS files
+.DS_Store
